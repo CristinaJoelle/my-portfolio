@@ -32,3 +32,9 @@ h2 {
   text-decoration: underline;
   padding: 10px;
 }
+
+h3 {
+  color: var(--grey);
+  background-color: var(--blue);
+  width: fit-content;
+}
