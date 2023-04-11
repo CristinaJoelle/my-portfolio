@@ -68,7 +68,8 @@ section img {
   height: 75%;
   width: 75%;
   display: block;
-  border: 15px --grey;
+  border: solid lightslategray 3px;
+  padding: 10px;
 }
 
 h4 {
@@ -82,7 +83,7 @@ h4 {
 }
 
 .about-me h1 {
-  padding-right: 15px;
+  padding-right: 27px;
   padding-left: 55px;
   border-right: 3px solid;
   color: rgb(56, 80, 114);
@@ -102,7 +103,7 @@ p {
   padding-right: 25px;
   padding-left: 27px;
   border-right: 3px solid;
-  line-height: 470px;
+  line-height: 620px;
   color: rgb(56, 80, 114);
   margin-right: 80px;
   margin-left: 40px;
