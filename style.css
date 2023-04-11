@@ -65,9 +65,8 @@ div h3 {
 }
 
 section img {
-  height: 75%;
-  width: 75%;
-  display: block;
+  height: 90%;
+  width: 90%;
   border: solid lightslategray 3px;
   padding: 10px;
 }
@@ -103,7 +102,7 @@ p {
   padding-right: 25px;
   padding-left: 27px;
   border-right: 3px solid;
-  line-height: 620px;
+  line-height: 220px;
   color: rgb(56, 80, 114);
   margin-right: 80px;
   margin-left: 40px;
