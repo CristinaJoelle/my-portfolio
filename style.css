@@ -65,12 +65,15 @@ div h3 {
 }
 
 section img {
-  height: 90%;
-  width: 90%;
+  height: 75%;
+  width: 75%;
   border: solid lightslategray 3px;
   padding: 10px;
 }
-
+.flex-container {
+  display: flex;
+  flex-direction: column;
+}
 h4 {
   color: black;
   display: inline-block;
@@ -82,8 +85,8 @@ h4 {
 }
 
 .about-me h1 {
-  padding-right: 27px;
-  padding-left: 55px;
+  padding-right: 28px;
+  padding-left: 40px;
   border-right: 3px solid;
   color: rgb(56, 80, 114);
   margin-right: 80px;
@@ -102,12 +105,12 @@ p {
   padding-right: 25px;
   padding-left: 27px;
   border-right: 3px solid;
-  line-height: 220px;
+  line-height: 1750px;
   color: rgb(56, 80, 114);
   margin-right: 80px;
   margin-left: 40px;
 }
-.contact-me h1 {
+#contact-me {
   padding-right: 25px;
   border-right: 3px solid;
   line-height: 90px;
